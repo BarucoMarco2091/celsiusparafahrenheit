@@ -1,0 +1,16 @@
+body {
+    background-color: red;
+}
+
+#container {
+    box-sizing: border-box;
+    background-color: rgb(189, 28, 189);
+    width: 500px;
+    height: 200px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+#container #btn {
+    border-radius: 10px;
+}
